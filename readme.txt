@@ -2,7 +2,7 @@
 ##This is my Ecommerce project, I build to only research and learn about machine learning. Deep learning model notebook, I have not understand it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD
 #Customer Churn Prediction 
 ============================
-##Context
+- Context
 In today's highly competitive business landscape, retaining customers is crucial for the success of anu organization. A customer churn prediction model using various machine learning algorithms including logistic regression, random forest, KNN, SVM, Gaussian Naive Bayes,...
 # Dataset: 
 ## Content
