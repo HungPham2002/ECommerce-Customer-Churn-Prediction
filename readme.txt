@@ -1,6 +1,7 @@
-# Hello, 
-## this is my Ecommerce project, I build to only research and learn about machine learning. Deep learning model notebook, I have not understand it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD
-# Customer Churn Prediction 
+#Hello, 
+##This is my Ecommerce project, I build to only research and learn about machine learning. Deep learning model notebook, I have not understand it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD
+#Customer Churn Prediction 
+============================
 ##Context
 In today's highly competitive business landscape, retaining customers is crucial for the success of anu organization. A customer churn prediction model using various machine learning algorithms including logistic regression, random forest, KNN, SVM, Gaussian Naive Bayes,...
 # Dataset: 
@@ -14,5 +15,5 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-# Note
+#Note
 those Lib without in colab just are used for visualizing data and visualizing evaluation or Interact between features. If only training model you can ignore that step because it install and we restart time and rerun -> wasting time :V
