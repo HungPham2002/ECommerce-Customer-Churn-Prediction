@@ -1,5 +1,5 @@
 Hello, 
-This is my Ecommerce project, I build to only research and learn about machine learning. Deep learning model notebook, I have not understand it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD
+This is my Ecommerce project, I build to only research and learn about machine learning. Deep learning model notebook, I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD
 Customer Churn Prediction 
 ============================
 - Context
