@@ -3,7 +3,7 @@ This is my Ecommerce project, I build to only research and learn about machine l
 Customer Churn Prediction 
 ============================
 - Context
-In today's highly competitive business landscape, retaining customers is crucial for the success of anu organization. A customer churn prediction model using various machine learning algorithms including logistic regression, random forest, KNN, SVM, Gaussian Naive Bayes,...
+In today's highly competitive business landscape, retaining customers is crucial for the success of an organization. A customer churn prediction model using various machine learning algorithms including logistic regression, random forest, Decision Tree
 - Dataset: 
   + Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
