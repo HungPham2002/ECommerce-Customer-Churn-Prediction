@@ -21,7 +21,7 @@ Each row represents a customer, each column contains customer’s attributes des
 - Imbalanced data: In fact, the data we collect will often not have a balance between classes (stayed/churned/...). This is understandable because if the 'churn' is balanced with the 'stayed' class, the organization is on the verge of bankruptcy. The harm of data imbalance is very serious. 
   + Eg: Suppose we have 100 samples, 99 class 'non churn' and 1 class 'churn'. The model only needs to make predictions that are all 'non churn' to be 99% accurate, perfect. But in reality it is really useless.
   + To solve this problem, We have many methods to solve. The simplest is that we will change the evaluation metrics, specifically we will no longer use the 'accuracy' metrics.
-- Feature Featuring: The problem requires us to have the knowledge of an expert in the field we are solving. We need to understand the characteristics of the data, which characteristics will affect the desired outcome
+- Feature Featuring: The problem requires us to have the knowledge of an expert in the field we are solving. We need to understand the features of the data, which features will affect the desired output
 - Model selection: there are many methods to solve this problem, Logistic Regression, K algorithms, classification algorithms, neural networks,...
 ## Procession:
 Details of data preprocessing, training and evaluation of the model, I made a note in the notebook, please read it.
