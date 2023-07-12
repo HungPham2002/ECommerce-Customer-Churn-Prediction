@@ -14,7 +14,7 @@ Each row represents a customer, each column contains customer’s attributes des
     + Demographic info about customers – gender, age range, and if they have partners and dependents
   - Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Pipeline:
-![pipeline](https://drive.google.com/file/d/1PM7_tyPj0Jovt3QpaPhnbbPiHM1KZV2G/view?usp=sharing)
+![pipeline](https://drive.google.com/uc?export=view&id=1PM7_tyPj0Jovt3QpaPhnbbPiHM1KZV2G)
 ## Note
 + those Lib without in colab just are used for visualizing data and visualizing evaluation or Interact between features. If only training model you can ignore that step because it install and we restart time and rerun -> wasting time :V
 + In Ecommerce project, We requied to create a dashboard to visualize data. this is the URL to Dashboard project: https://github.com/HungPham2002/Dashboard_ECommerce
