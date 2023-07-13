@@ -8,7 +8,7 @@
 # Customer Churn Prediction
 - Class: ECOMMERCE - IS334.N21.TMCL
 - Lecturer: Mr. Do Duy Thanh
-## Hello, 
+## Introduction 
 - This is my Ecommerce project, I build to only research and learn about Machine Learning.
 - Deep learning model notebook as extra (Deep neural is a complicated process. in reality, simple things is usually more effective), I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD So I do not recommend to consult this one.
 ## Context
