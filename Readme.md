@@ -9,8 +9,7 @@
 - Class: ECOMMERCE - IS334.N21.TMCL
 - Lecturer: Mr. Do Duy Thanh
 ## Introduction 
-- This is my Ecommerce project, I build to only research and learn about Machine Learning.
-- Deep learning model notebook as extra (Deep neural is a complicated process. in reality, simple things is usually more effective), I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD So I do not recommend to consult this one.
+- This is my Ecommerce project, I build to only research and learn about Machine Learning. Understanding about How Machine Learning apply to ECommerce.
 ## Context
 In today's highly competitive business landscape, retaining customers is crucial for the success of an organization. A customer churn prediction model using various machine learning algorithms including logistic regression, random forest, Decision Tree
 ## Dataset: 
@@ -35,7 +34,7 @@ Each row represents a customer, each column contains customer’s attributes des
 ## Procession:
 Details of data preprocessing, training and evaluation of the model, I made a note in the notebook, please read it.
 ## Note
-+ those Lib without in colab just are used for visualizing data and visualizing evaluation or Interact between features. If only training model you can ignore that step because it install and we restart time and rerun -> wasting time :V
++ - Deep learning model notebook as extra (Deep neural is a complicated process. In reality, simple things is usually more effective), I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD So I do not recommend to consult this one.
 + In Ecommerce project, We requied to create a dashboard to visualize data. this is the URL to Dashboard project: https://github.com/HungPham2002/Dashboard_ECommerce
 ## References:
 ### [1] Susan Li: Predict Customer Churn – Logistic Regression, Decision Tree and Random Forest (2017).
