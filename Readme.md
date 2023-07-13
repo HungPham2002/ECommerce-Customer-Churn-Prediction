@@ -34,7 +34,7 @@ Each row represents a customer, each column contains customer’s attributes des
 ## Procession:
 Details of data preprocessing, training and evaluation of the model, I made a note in the notebook, please read it.
 ## Note
-+ - Deep learning model notebook as extra (Deep neural is a complicated process. In reality, simple things is usually more effective), I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD So I do not recommend to consult this one.
++ Deep learning model notebook as extra (Deep neural is a complicated process. In reality, simple things is usually more effective), I have not understood it yet. I'm not sure it work correctly and effectively. Maybe it overfit and I do not see that :DD So I do not recommend to consult this one.
 + In Ecommerce project, We requied to create a dashboard to visualize data. this is the URL to Dashboard project: https://github.com/HungPham2002/Dashboard_ECommerce
 ## References:
 ### [1] Susan Li: Predict Customer Churn – Logistic Regression, Decision Tree and Random Forest (2017).
